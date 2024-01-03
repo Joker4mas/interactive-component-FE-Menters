@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: white;
+    background-color: hsl(216, 12%, 8%);
+}
+.container{
+    width: 30%;
+    margin: 10rem auto;
+    padding: 1rem;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color:hsl(213, 19%, 18%) ;
+}
