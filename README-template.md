@@ -9,7 +9,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
+  - [Built with](HTML CSS & JavaScript)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
