@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- form novalidate -->
+    <form novalidate>
+        <p>
+            <label for="mail">
+                <span>
+                    Please enter an email address:                    
+                </span>
+                <input type="email" id="mail" name="mail" required minlength="8" />
+                <span class="error" aria-live="polite"></span>
+            </label>
+        </p>
+
+        <button>Submit</button>
+    </form>
+
+
+
+
+
+    <!-- email validation -->
+    <!-- <form action="#">
+        <label for="mail">
+            I would like to provide you with my email address:
+        </label>
+        <input type="email" name="mail" id="mail" pattern="[a-z0-9._%+-]+@[a-z0-9._%-]+\.{2,4}$">
+
+        <button>Submit</button>
+    </form> -->
+    <script src="form.js"></script>
+</body>
+</html>
