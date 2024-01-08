@@ -34,8 +34,9 @@ input:focus:invalid {
 .error {
     width: 100%;
     padding: 0;
+    margin: 1px auto;
 
-    font-size: 80%;
+    font-size: 60%;
     color: white;
     background-color: #900;
     border-radius: 0 0 5px 5px;
