@@ -112,8 +112,7 @@ footer{
 }
 
 .container-thanks .img-svg{
-
-    padding: .5rem;
+    /* padding: .5rem; */
     text-align: center;
 }
 .container-thanks .ratedValue{
@@ -141,9 +140,9 @@ footer{
 }
 @media (max-width: 380px) {
     .container,.container-thanks {
-        width: 90%;
-        margin: 5rem auto;
-        padding: 1rem;
+        width: 20rem;
+        margin: 4rem auto;
+        padding: 1.5rem;
         border-radius: 20px;
         background-color: hsl(213, 19%, 18%);
     }
@@ -151,9 +150,9 @@ footer{
 
 @media(max-width:780px){
     .container,.container-thanks {
-        width: 60%;
-        margin: 5rem auto;
-        padding: 1rem;
+        width: 20rem;
+        margin: 4rem auto;
+        padding: 1.5rem;
         border-radius: 20px;
         background-color: hsl(213, 19%, 18%);
     }
